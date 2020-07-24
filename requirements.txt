@@ -1,0 +1,4 @@
+PyMySQL==0.9.3
+pygame==1.9.6
+sympy==1.6.1
+PyQt5==5.15.0
